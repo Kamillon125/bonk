@@ -21,10 +21,10 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 
 
-<br><br>
+<br><br><br><br>
 ## Bonk's history
 
-Originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
+Originally this section had a history of how bonk came to be, it talked about the layouts my friend and I had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
   <br><br><br>
 
 
@@ -63,31 +63,31 @@ This version was made with the help of people from the Alternate Keyboard Layout
 <br><br><br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
-- Rolls (l): 16.99%
-- Rolls (r): 25.46%
-- Alternates: ~40.51%
-- Onehands: ~1.85%
-- Redirects: ~6.34%
-- Finger Speed (weighted): [0.50 0.80 0.66 2.90 3.70 1.75 1.38 0.67]
-- Finger speed (unweighted): [0.76 2.88 3.15 15.94 20.34 8.40 4.97 1.01]
-- Highest Speed (weighted): 3.70 (RI)
-- Highest Speed (unweighted): 20.34 (RI)
-- Index Usage: 15.8% 14.7%
-- SFBs: 0.820%
-- DSFBs: 6.637%
-- LSBs: 2.28%
+- Rolls (l): `16.99%`
+- Rolls (r): `25.46%`
+- Alternates: `~40.51%`
+- Onehands: `~1.85%`
+- Redirects: `~6.34%`
+- Finger Speed (weighted): `[0.50 0.80 0.66 2.90 3.70 1.75 1.38 0.67]`
+- Finger speed (unweighted): `[0.76 2.88 3.15 15.94 20.34 8.40 4.97 1.01]`
+- Highest Speed (weighted): `3.70` (RI)
+- Highest Speed (unweighted): `20.34` (RI)
+- Index Usage: `15.8% 14.7%`
+- SFBs: `0.820%`
+- DSFBs: `6.637%`
+- LSBs: `2.28%`
 - Top SFBs:
 `ui 0.107%       nk 0.079%       eo 0.078%       rl 0.077%       kn 0.055%       dy 0.049%       nv 0.048%       xt 0.045%`
 - Worst Bigrams:
 `oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
-- Score: 40.53
+- Score: `40.53`
 <br><br><br><br>
 
 ## How does Bonk deal with same finger bigrams?<br>
 The alt layer changes what some letters do, admittedly I don't mind the same finger bigrams myself so I haven't messed around with this layer, but if you hold down AltGr (the right alt) some letters will change. Here is what the actual fully complete bonk layout looks like.
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964179225772961842/bonk6.png" alt="the final final final final final final bonk">
 <br>^The bottom legends show what the key does with AltGr pressed down^
-
+<br><br><br><br>
 [^1]: I have not had it happen to me yet :(
 [^2]: Bonk's beta name was greg
 [^3]: Pressing two keys in a row with the same finger
