@@ -18,7 +18,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 - It's the only layout named Bonk.
 - My mum says I'm her special little boy and as such she would approve of my layout.
 
-<br><br>
+<br>
 ## Why you shouldn't use Bonk
 - I want to be the fastest Bonk typist in the world, please don't take it away from me.
 
@@ -86,7 +86,8 @@ This version was made with the help of people from the Alternate Keyboard Layout
 `oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
 - Score: 40.53
 <br><br><hr style="border:2px solid gray"> </hr><br><br>
-[^1]: I have not had it happen to me yet :(
-[^2]: Bonk's beta name was greg
-[^3]: Pressing two keys in a row with the same finger
-[^4]: To distinguish between the beta versions i kept adding one more g to every version of greg
+
+[^1]: I have not had it happen to me yet :(<br>
+[^2]: Bonk's beta name was greg<br>
+[^3]: Pressing two keys in a row with the same finger<br>
+[^4]: To distinguish between the beta versions i kept adding one more g to every version of greg<br>
