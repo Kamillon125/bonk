@@ -1,9 +1,9 @@
 
 <h1><p align="center">
-the bonk keyboard layout
-  
-  <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="the bonk keyboard layout">
 
+  
+  <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
+the bonk keyboard layout
  
   
 </p></h1>
