@@ -6,7 +6,8 @@
   <br>
 
   
-</p></h1>
+</p>
+  <hr style="border:2px solid gray"> </hr>
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
 <hr />
@@ -24,7 +25,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 
 
-<br><hr /><br>
+<br><hr style="border:2px solid gray"> </hr><br>
 ## Bonk's history
 
 Originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
@@ -63,7 +64,7 @@ It started looking a lot more like the final version, the only changes I made af
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964156083881013349/bonk5.png" alt="the final bonk">
 Gregggg (14.04.2022)
 This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
-<br><br><hr /><br><br>
+<br><br><hr style="border:2px solid gray"> </hr><br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
 - Rolls (l): 16.99%
@@ -84,7 +85,7 @@ This version was made with the help of people from the Alternate Keyboard Layout
 - Worst Bigrams:
 `oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
 - Score: 40.53
-<br><br><hr /><br><br>
+<br><br><hr style="border:2px solid gray"> </hr><br><br>
 [^1]: I have not had it happen to me yet :(
 [^2]: Bonk's beta name was greg
 [^3]: Pressing two keys in a row with the same finger
