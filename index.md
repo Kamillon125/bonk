@@ -6,6 +6,7 @@
 
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
+[Download it here](https://github.com/Kamillon125/bonk/blob/main/bonk.zip)
 
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
