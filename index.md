@@ -1,11 +1,6 @@
 
 <h1><p align="center">
-
-  
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
-  <br>
-
-  
 </p>
 
 ## Bonk
@@ -13,11 +8,11 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 ## Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
-- It might tuck you into bed and sing you a lullaby[^1].
+- It might tuck you into bed and sing you a lullaby[^1]
 - It performs well on keyboard layout analyzers.
 - It's the only layout named Bonk.
 - My mum says I'm her special little boy and as such she would approve of my layout.
-
+<img src="https://cdn.discordapp.com/attachments/449981929018621954/964170524559286402/happy-hands.png" alt="hands">
 <br>
 ## Why you shouldn't use Bonk
 - I want to be the fastest Bonk typist in the world, please don't take it away from me.
