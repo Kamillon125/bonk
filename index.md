@@ -1,4 +1,4 @@
-# the bonk keyboard layout.
+
 <h1><p align="center">
 
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="the bonk keyboard layout">
