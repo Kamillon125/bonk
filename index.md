@@ -1,9 +1,9 @@
 # the bonk keyboard layout.
-<p align="center">
+<h1><p align="center">
 
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="the bonk keyboard layout">
 
-</p>
+</p></h1>
 You can use the [editor on GitHub](https://github.com/Kamillon125/bonk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
