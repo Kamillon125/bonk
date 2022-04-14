@@ -9,7 +9,7 @@ the bonk layout
 </p></h1>
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
----
+<hr />
 ## Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
 - It might tuck you into bed and sing you a lullaby[^1].
@@ -24,7 +24,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 
 
-<br>---<br>
+<br><hr /><br>
 ## Bonk's history
 
 Originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
@@ -63,7 +63,7 @@ It started looking a lot more like the final version, the only changes I made af
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964156083881013349/bonk5.png" alt="the final bonk">
 Gregggg (14.04.2022)
 This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
-<br><br>---<br><br>
+<br><br><hr /><br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
 -Rolls (l): 16.99%
