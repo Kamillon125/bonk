@@ -1,4 +1,4 @@
-## the bonk keyboard layout.
+# the bonk keyboard layout.
 
 You can use the [editor on GitHub](https://github.com/Kamillon125/bonk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
