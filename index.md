@@ -8,6 +8,20 @@ the bonk layout
  
   
 </p></h1>
+
+##Why you should use Bonk
+- It's a comfortable layout with emphasis on hand alternation.
+- It might tuck you into bed and sing you a lullaby[^1].
+- It performs well on keyboard layout analyzers.
+- It's the only layout named Bonk.
+- According to my friend it's the coolest keyboard layout in the world :sunglasses:
+
+
+
+
+
+
+
 ## Bonk's history
 
 Originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
@@ -23,14 +37,14 @@ I wasn't sure if I should include this layout, as it was my first attempt at mak
 
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964148507369955358/bonk2.png" alt="the second bonk ever made">
-Greg[^1] (08.04.2022)
-The first bonk version ever, I wasn't quite satisfied with it and wanted to take bonk in a different direction. My biggest issue with this one was the amount of same finger bigrams[^2] and the index finger usage feeling pretty bad.
+Greg[^2] (08.04.2022)
+The first bonk version ever, I wasn't quite satisfied with it and wanted to take bonk in a different direction. My biggest issue with this one was the amount of same finger bigrams[^3] and the index finger usage feeling pretty bad.
 <br><br><br>
 
 
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964151643492982784/bonk3.png" alt="the third bonk ever made">
-Gregg[^3] (08.04.2022)
+Gregg[^4] (08.04.2022)
 This one was a fever dream, let's not talk about it.
 <br><br><br>
 
@@ -48,7 +62,7 @@ Gregggg (14.04.2022)
 This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
 
 
-
-[^1]: Bonk's beta name was greg
-[^2]: Pressing two keys in a row with the same finger
-[^3]: To distinguish between the beta versions i kept adding one more g to every version of greg
+[^1]: I have not had it happen to me yet :(
+[^2]: Bonk's beta name was greg
+[^3]: Pressing two keys in a row with the same finger
+[^4]: To distinguish between the beta versions i kept adding one more g to every version of greg
