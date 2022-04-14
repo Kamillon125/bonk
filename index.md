@@ -6,7 +6,7 @@
 
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
-
+---
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
 - It might tuck you into bed and sing you a lullaby [^1]
@@ -21,7 +21,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 
 
-<br><br><br><br>
+<br><br>---<br><br>
 ## Bonk's history
 
 Originally this section had a history of how bonk came to be, it talked about the layouts my friend and I had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
@@ -60,7 +60,7 @@ It started looking a lot more like the final version, the only changes I made af
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964156083881013349/bonk5.png" alt="the final bonk">
 Gregggg (14.04.2022)<br>
 This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
-<br><br><br><br>
+<br><br>---<br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
 - Rolls (l): `16.99%`
@@ -81,7 +81,7 @@ This version was made with the help of people from the Alternate Keyboard Layout
 - Worst Bigrams:
 `oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
 - Score: `40.53`
-<br><br><br><br>
+<br><br>---<br><br>
 
 ## How does Bonk deal with same finger bigrams?<br>
 The alt layer changes what some letters do, admittedly I don't mind the same finger bigrams myself so I haven't messed around with this layer, but if you hold down AltGr (the right alt) some letters will change. Here is what the actual fully complete bonk layout looks like.
