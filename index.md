@@ -3,46 +3,23 @@
 
   
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
+  <br>
 the bonk keyboard layout
  
   
 </p></h1>
-## Bonk's history
+## bonk's history
+
 originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. that's boring. let's instead talk about the previous, beta versions of bonk.
-  
+  <br><br>
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964144699394908200/unknown.png" alt="the first bonk ever made">
-You can use the [editor on GitHub](https://github.com/Kamillon125/bonk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
+fishmak (12.09.2021) <br>
+i wasn't sure if i should include this layout, as it was my first attempt at making one back in september last year. it ended up being awful.
+<br><br>
+<img src="https://cdn.discordapp.com/attachments/465932114089607169/964148507369955358/bonk2.png" alt="the second bonk ever made">
+greg[^1] (08.04.2022) <br>
+the first bonk version ever, i wasn't quite satisfied with it and wanted to take bonk in a different direction. my bigget issue with this one was the amount of same finger bigrams[^2] and the middle fingers being pretty bad.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kamillon125/bonk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[^1]: bonk's beta name was greg
+[^2]: pressing two keys in a row with the same finger
