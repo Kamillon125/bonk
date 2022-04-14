@@ -10,7 +10,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
-- It might tuck you into bed and sing you a lullaby [^1]
+- It might tuck you into bed and sing you a lullaby[^1]
 - It performs well on keyboard layout analyzers.
 - It's the only layout in the world named Bonk.
 - My mum says I'm her special little boy and as such she would approve of my layout.
@@ -38,14 +38,14 @@ I wasn't sure if I should include this layout, as it was my first attempt at mak
 
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964148507369955358/bonk2.png" alt="the second bonk ever made">
-**Greg** [^2] *(08.04.2022)*<br>
-The first bonk version ever, I wasn't quite satisfied with it and wanted to take bonk in a different direction. My biggest issue with this one was the amount of same finger bigrams [^3] and the index finger usage feeling pretty bad.
+**Greg**[^2] *(08.04.2022)*<br>
+The first bonk version ever, I wasn't quite satisfied with it and wanted to take bonk in a different direction. My biggest issue with this one was the amount of same finger bigrams[^3] and the index finger usage feeling pretty bad.
 <br><br><br>
 
 
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964151643492982784/bonk3.png" alt="the third bonk ever made">
-**Gregg** [^4] *(08.04.2022)*<br>
+**Gregg**[^4] *(08.04.2022)*<br>
 This one was a fever dream, let's not talk about it.
 <br><br><br>
 
