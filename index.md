@@ -16,11 +16,10 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 - It might tuck you into bed and sing you a lullaby[^1].
 - It performs well on keyboard layout analyzers.
 - It's the only layout named Bonk.
-- According to my friend it's the coolest keyboard layout in the world. :sunglasses:
 - My mum says I'm her special little boy and as such she would approve of my layout.
 
 <br><br>
-##Why you shouldn't use Bonk
+## Why you shouldn't use Bonk
 - I want to be the fastest Bonk typist in the world, please don't take it away from me.
 
 
