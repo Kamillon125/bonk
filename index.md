@@ -5,23 +5,29 @@
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
   <br>
 the bonk layout
- 
   
 </p></h1>
+## Bonk
+Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
 
-##Why you should use Bonk
+
+## Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
 - It might tuck you into bed and sing you a lullaby[^1].
 - It performs well on keyboard layout analyzers.
 - It's the only layout named Bonk.
-- According to my friend it's the coolest keyboard layout in the world :sunglasses:
+- According to my friend it's the coolest keyboard layout in the world. :sunglasses:
+- My mum says I'm her special little boy and as such she would approve of my layout.
+
+<br><br>
+##Why you shouldn't use Bonk
+- I want to be the fastest Bonk typist in the world, please don't take it away from me.
 
 
 
 
 
-
-
+<br><br>
 ## Bonk's history
 
 Originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. That's boring. Let's instead talk about the previous, beta versions of Bonk.
@@ -60,7 +66,27 @@ It started looking a lot more like the final version, the only changes I made af
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964156083881013349/bonk5.png" alt="the final bonk">
 Gregggg (14.04.2022)
 This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
+<br><br><br><br><br>
 
+## Bonk's most important statistics on the genkey layout analyzer
+-Rolls (l): 16.99%
+-Rolls (r): 25.46%
+-Alternates: ~40.51%
+-Onehands: ~1.85%
+-Redirects: ~6.34%
+-Finger Speed (weighted): [0.50 0.80 0.66 2.90 3.70 1.75 1.38 0.67]
+-Finger speed (unweighted): [0.76 2.88 3.15 15.94 20.34 8.40 4.97 1.01]
+-Highest Speed (weighted): 3.70 (RI)
+-Highest Speed (unweighted): 20.34 (RI)
+-Index Usage: 15.8% 14.7%
+-SFBs: 0.820%
+-DSFBs: 6.637%
+-LSBs: 2.28%
+-Top SFBs:
+`ui 0.107%       nk 0.079%       eo 0.078%       rl 0.077%       kn 0.055%       dy 0.049%       nv 0.048%       xt 0.045%`
+-Worst Bigrams:
+`oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
+-Score: 40.53
 
 [^1]: I have not had it happen to me yet :(
 [^2]: Bonk's beta name was greg
