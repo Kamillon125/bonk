@@ -16,7 +16,7 @@ Originally this section had a history of how bonk came to be, it talked about th
 
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964144699394908200/unknown.png" alt="the first bonk ever made">
-Fishmak (12.09.2021) <br>
+Fishmak (12.09.2021)
 I wasn't sure if I should include this layout, as it was my first attempt at making one back in september last year. Tt ended up not being good at all.
 <br><br><br>
 
