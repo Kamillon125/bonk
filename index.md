@@ -19,7 +19,8 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 ### Why you shouldn't use Bonk
 - I want to be the fastest Bonk typist in the world, please don't take it away from me.
 
-
+<br>
+[^1]: I have not had it happen to me yet :(
 
 
 <br><br><br><br>
@@ -89,7 +90,6 @@ The alt layer changes what some letters do, admittedly I don't mind the same fin
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964179225772961842/bonk6.png" alt="the final final final final final final bonk">
 <br>The bottom legends show what the key does with AltGr pressed down
 <br><br><br><br>
-[^1]: I have not had it happen to me yet :(
 
 [^2]: Bonk's beta name was greg
 
