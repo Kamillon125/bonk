@@ -4,7 +4,7 @@
   
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
   <br>
-the bonk layout
+
   
 </p></h1>
 ## Bonk
