@@ -66,25 +66,25 @@ This version was made with the help of people from the Alternate Keyboard Layout
 <br><br><hr /><br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
--Rolls (l): 16.99%
--Rolls (r): 25.46%
--Alternates: ~40.51%
--Onehands: ~1.85%
--Redirects: ~6.34%
--Finger Speed (weighted): [0.50 0.80 0.66 2.90 3.70 1.75 1.38 0.67]
--Finger speed (unweighted): [0.76 2.88 3.15 15.94 20.34 8.40 4.97 1.01]
--Highest Speed (weighted): 3.70 (RI)
--Highest Speed (unweighted): 20.34 (RI)
--Index Usage: 15.8% 14.7%
--SFBs: 0.820%
--DSFBs: 6.637%
--LSBs: 2.28%
--Top SFBs:
+- Rolls (l): 16.99%
+- Rolls (r): 25.46%
+- Alternates: ~40.51%
+- Onehands: ~1.85%
+- Redirects: ~6.34%
+- Finger Speed (weighted): [0.50 0.80 0.66 2.90 3.70 1.75 1.38 0.67]
+- Finger speed (unweighted): [0.76 2.88 3.15 15.94 20.34 8.40 4.97 1.01]
+- Highest Speed (weighted): 3.70 (RI)
+- Highest Speed (unweighted): 20.34 (RI)
+- Index Usage: 15.8% 14.7%
+- SFBs: 0.820%
+- DSFBs: 6.637%
+- LSBs: 2.28%
+- Top SFBs:
 `ui 0.107%       nk 0.079%       eo 0.078%       rl 0.077%       kn 0.055%       dy 0.049%       nv 0.048%       xt 0.045%`
--Worst Bigrams:
+- Worst Bigrams:
 `oe 24.547       pc 18.566       ui 13.505       a. 9.252       vn 8.915        lr 8.871        nh 8.575        mn 7.196`
--Score: 40.53
-
+- Score: 40.53
+<br><br><hr /><br><br>
 [^1]: I have not had it happen to me yet :(
 [^2]: Bonk's beta name was greg
 [^3]: Pressing two keys in a row with the same finger
