@@ -95,4 +95,4 @@ The alt layer changes what some letters do, admittedly I don't mind the same fin
 
 [^3]: Pressing two keys in a row with the same finger
 
-[^4]: To distinguish between the beta versions i kept adding one more g to every version of greg
+[^4]:To distinguish between the beta versions i kept adding one more g to every version of greg
