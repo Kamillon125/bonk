@@ -10,7 +10,7 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
-- It might tuck you into bed and sing you a lullaby[^1]
+- It might tuck you into bed and sing you a lullaby
 - It performs well on keyboard layout analyzers.
 - It's the only layout in the world named Bonk.
 - My mum says I'm her special little boy and as such she would approve of my layout.
@@ -19,8 +19,6 @@ Bonk is a keyboard layout boasting some good statistics and scores on the genkey
 ### Why you shouldn't use Bonk
 - I want to be the fastest Bonk typist in the world, please don't take it away from me.
 
-<br>
-[^1]: I have not had it happen to me yet :(
 
 
 <br><br><br><br>
