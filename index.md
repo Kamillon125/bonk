@@ -2,6 +2,7 @@
 <h1><p align="center">
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="layoutimage.png">
 </p>
+</h1>
 
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
