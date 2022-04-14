@@ -1,15 +1,16 @@
-<h1 align="center">bonk</h1>
-<h1><p align="center">
 
+<h1><p align="center">
+the bonk keyboard layout
+  
   <img src="https://cdn.discordapp.com/attachments/465932114089607169/964123362542624788/bonklayout.png" alt="the bonk keyboard layout">
 
+ 
   
+</p></h1>
 ## Bonk's history
 originally this section had a history of how bonk came to be, it talked about the layouts my friend and i had learnt and the issues we had with them. that's boring. let's instead talk about the previous, beta versions of bonk.
   
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964144699394908200/unknown.png" alt="the first bonk ever made">
-  
-</p></h1>
 You can use the [editor on GitHub](https://github.com/Kamillon125/bonk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
