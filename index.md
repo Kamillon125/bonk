@@ -90,6 +90,9 @@ The alt layer changes what some letters do, admittedly I don't mind the same fin
 <br>The bottom legends show what the key does with AltGr pressed down
 <br><br><br><br>
 [^1]: I have not had it happen to me yet :(
+
 [^2]: Bonk's beta name was greg
+
 [^3]: Pressing two keys in a row with the same finger
+
 [^4]: To distinguish between the beta versions i kept adding one more g to every version of greg
