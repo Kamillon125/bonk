@@ -59,7 +59,7 @@ It started looking a lot more like the final version, the only changes I made af
 
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964156083881013349/bonk5.png" alt="the final bonk"><br>
 **Gregggg** *(14.04.2022)*<br>
-This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers.
+This version was made with the help of people from the Alternate Keyboard Layouts discord server, I mostly changed up the index fingers for this version (by which I mean I stole them from another layout called whorf6 but nobody needs to know you don't need to tell anyone).
 <br><br><br><br>
 
 ## Bonk's most important statistics on the genkey layout analyzer
