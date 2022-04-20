@@ -6,7 +6,7 @@
 
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
-[Download it here](https://github.com/Kamillon125/bonk/blob/main/bonk.zip)
+How to download it? You will be able to once I fix my microsoft keyboard layout creator and actually build the final version. In the meantime, you can spend your days looking at this beautiful awesome amazing nice website.
 
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
@@ -87,6 +87,8 @@ This version was made with the help of people from the Alternate Keyboard Layout
 The alt layer changes what some letters do, admittedly I don't mind the same finger bigrams myself so I haven't messed around with this layer, but if you hold down AltGr (the right alt) some letters will change. Here is what the actual fully complete bonk layout looks like.
 <img src="https://cdn.discordapp.com/attachments/465932114089607169/964179225772961842/bonk6.png" alt="the final final final final final final bonk">
 <br>The bottom legends show what the key does with AltGr pressed down
+
+disclaimer: i have not tested this feature out yet and it sounds incredibly stupid but there is a slim chance that it might work.
 <br><br><br><br>
 
 [^2]: Bonk's beta name was greg
