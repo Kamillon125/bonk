@@ -6,7 +6,7 @@
 
 ## Bonk
 Bonk is a keyboard layout boasting some good statistics and scores on the genkey keyboard layout analyzer.
-How to download it? You will be able to once I fix my microsoft keyboard layout creator and actually build the final version. In the meantime, you can spend your days looking at this beautiful awesome amazing nice website.
+How to download it? You will be able to once I fix my microsoft keyboard layout creator and actually build the final version. In the meantime, you can spend your days looking at this beautiful incredible prodigous stunning unbelievable fascinating marvelous shocking incredible surprising wonderful graceful attractive stylish fine sharp beautiful lovely suave impressive spruce clean-cut personable aristocratic majestic strong dapper smart august noble virile elegant smooth becoming pulchritudinous well-dressed good-looking stately comely robust well-proportioned alluring beckoning interesting tantalising teasing magnetic captivating inviting charming engaging lovely mesmeric winning enticing pleasant enchanting prepossessing winsome fair pleasing enthralling pretty glamorous tempting fascinating provocative adorably fetching seductive gorgeous agreeable hunky stunning awesome amazing nice website.
 
 ### Why you should use Bonk
 - It's a comfortable layout with emphasis on hand alternation.
